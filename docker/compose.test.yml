@@ -1,0 +1,44 @@
+version: '3.8'
+
+services:
+  api:
+    image: portfolio-api:${IMAGE_TAG:-local}
+    build:
+      context: ../
+      target: api
+    environment:
+      - CORS_ORIGINS=http://web:5173
+    volumes:
+      - api_volume:/data
+  web:
+    image: portfolio-web:${IMAGE_TAG:-local}
+    build:
+      context: ../
+      target: web
+    environment:
+      - VITE_API_URL=http://api:15000
+    volumes:
+      - web_volume:/assets
+  vr:
+    image: vr:${IMAGE_TAG}
+    build:
+      context: ../
+      target: vr
+    depends_on:
+      web:
+        condition: service_healthy
+      api:
+        condition: service_healthy
+    volumes:
+      - vr_volume:/output
+
+volumes:
+  vr_volume:
+    external: true
+    name: ${VR_VOLUME}
+  api_volume:
+    external: true
+    name: ${API_VOLUME}
+  web_volume:
+    external: true
+    name: ${WEB_VOLUME}

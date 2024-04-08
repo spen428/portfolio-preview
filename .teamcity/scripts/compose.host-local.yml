@@ -1,0 +1,39 @@
+services:
+  api:
+    image: portfolio-api:${IMAGE_TAG}
+    container_name: portfolio-api
+    environment:
+      - CORS_ORIGINS=https://spsc.co.uk,https://www.spsc.co.uk
+    volumes:
+      - portfolio-api:/data
+    restart: unless-stopped
+  web:
+    image: portfolio-web:${IMAGE_TAG}
+    container_name: portfolio-web
+    environment:
+      - VITE_API_URL=https://cv.spsc.co.uk
+    volumes:
+      - portfolio-web:/assets
+    restart: unless-stopped
+  nginx:
+    image: 'jc21/nginx-proxy-manager:latest'
+    restart: unless-stopped
+    ports:
+      - '80:80'
+      - '81:81'
+      - '443:443'
+    volumes:
+      - nginx-data:/data
+      - nginx-certs:/etc/letsencrypt
+
+volumes:
+  portfolio-api:
+    name: portfolio-api-${IMAGE_TAG}
+    external: true
+  portfolio-web:
+    name: portfolio-web-${IMAGE_TAG}
+    external: true
+  nginx-certs:
+    name: nginx-certs
+  nginx-data:
+    name: nginx-data

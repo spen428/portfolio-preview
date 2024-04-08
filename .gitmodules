@@ -1,0 +1,3 @@
+[submodule "shared/res"]
+	path = shared/res
+	url = git@github.com:spen428/portfolio-data.git

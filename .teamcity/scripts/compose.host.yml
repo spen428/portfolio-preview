@@ -1,0 +1,33 @@
+services:
+  api:
+    image: portfolio-api:${IMAGE_TAG}
+    container_name: portfolio-api
+    environment:
+      - CORS_ORIGINS=$CORS_ORIGINS
+    networks:
+      - cv
+    volumes:
+      - portfolio-api:/data
+    restart: unless-stopped
+  web:
+    image: portfolio-web:${IMAGE_TAG}
+    container_name: portfolio-web
+    environment:
+      - VITE_API_URL=$VITE_API_URL
+    networks:
+      - cv
+    volumes:
+      - portfolio-web:/assets
+    restart: unless-stopped
+
+networks:
+  cv:
+    external: true
+
+volumes:
+  portfolio-api:
+    external: true
+    name: portfolio-api-${IMAGE_TAG}
+  portfolio-web:
+    external: true
+    name: portfolio-web-${IMAGE_TAG}

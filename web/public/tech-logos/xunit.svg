@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   viewBox="0 0 63.999226 64"
+   version="1.1"
+   id="svg24"
+   sodipodi:docname="xunit.svg"
+   height="64"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs28">
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#path20,0,1|"
+       id="path-effect2019" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview26"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="10.22534"
+     inkscape:cx="38.238338"
+     inkscape:cy="36.966986"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24"
+     showguides="true" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1" />
+  <g
+     transform="matrix(1.25,0,0,-1.25,-48.080001,163.94)"
+     id="g22"
+     style="fill:#000000">
+    <path
+       inkscape:original-d="M 0,0"
+       inkscape:path-effect="#path-effect2019"
+       d="m 80.337042,90.533049 -1.253405,-1.2544 -15.022933,15.022931 -15.022933,-15.022931 -1.252409,1.2544 15.022933,15.022931 -15.022933,15.02294 1.252409,1.2534 15.022933,-15.02293 15.022933,15.02293 1.253405,-1.2534 -15.022933,-15.02294 z"
+       id="path2021"
+       class="UnoptimicedTransforms"
+       style="fill:#ffffff" />
+    <path
+       d="m 80.337042,90.533049 -1.253405,-1.2544 -15.022933,15.022931 -15.022933,-15.022931 -1.252409,1.2544 15.022933,15.022931 -15.022933,15.02294 1.252409,1.2534 15.022933,-15.02293 15.022933,15.02293 1.253405,-1.2534 L 65.314109,105.55598 80.337042,90.533049 M 86.463691,119.2379 77.750589,127.952 64.063691,114.26411 50.377789,127.952 41.663691,119.2379 55.350589,105.552 41.663691,91.865102 50.377789,83.152 64.063691,96.838901 77.750589,83.152 86.463691,91.865102 72.777789,105.552 86.463691,119.2379"
+       id="path20"
+       inkscape:export-filename="path20.svg"
+       inkscape:export-xdpi="109.22667"
+       inkscape:export-ydpi="109.22667"
+       style="stroke-width:0.995552;fill:#000000"
+       class="UnoptimicedTransforms" />
+  </g>
+</svg>

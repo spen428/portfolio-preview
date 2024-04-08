@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="github.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="22.627417"
+     inkscape:cx="8.2201163"
+     inkscape:cy="21.323689"
+     inkscape:window-width="1878"
+     inkscape:window-height="1016"
+     inkscape:window-x="42"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1">
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="m 13.269099,24.500037 c 0,-0.249861 -0.01802,-1.106304 -0.01802,-1.998663 l 0.02724,-0.758341 c 0.11817,-1.454268 0.409651,-1.936034 0.719138,-2.203631 -2.439651,-0.249859 -5.0064706,-1.177693 -5.0064706,-5.317576 0,-1.177694 0.4366563,-2.141222 1.1285546,-2.890584 -0.109164,-0.267598 -0.4915757,-1.3741214 0.109389,-2.855106 0,0 0.928458,-0.2855547 3.021934,1.1063046 C 14.147155,9.3465208 15.071486,9.2265079 16,9.2254969 c 0.928458,0 1.874923,0.1250389 2.748911,0.3569437 2.0937,-1.3918593 3.022159,-1.1063046 3.022159,-1.1063046 0.600966,1.4809846 0.218328,2.587508 0.109164,2.855106 0.71013,0.749362 1.12878,1.71289 1.12878,2.890584 0,4.139883 -2.566821,5.04976 -5.024703,5.317576 0.400645,0.338986 0.746369,0.981265 0.746369,1.998445 0,1.445292 -0.01803,2.605247 -0.01803,2.961971"
+       fill="#24292f"
+       id="path2"
+       style="fill:none;fill-opacity:1;stroke:#421c52;stroke-width:2.667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="ccccscccccccscsc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline">
+    <g
+       style="fill:none;stroke:#421c52;stroke-width:2.00025005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="g5221"
+       transform="matrix(1.3333333,0,0,1.3333333,-4.9932533e-4,4e-7)">
+      <ellipse
+         cx="12.000375"
+         cy="12"
+         id="circle2"
+         rx="9.9998693"
+         ry="9.9999943"
+         style="stroke-width:2.00025005;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+  </g>
+</svg>

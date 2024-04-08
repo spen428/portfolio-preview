@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  api:
+    extends:
+      file: compose.test.yml
+      service: api
+    ports:
+      - "15000:15000/tcp"
+    environment:
+      - CORS_ORIGINS=http://localhost
+    volumes:
+      - ../shared/res/api:/data
+  web:
+    extends:
+      file: compose.test.yml
+      service: web
+    ports:
+      - "80:5173/tcp"
+    environment:
+      - VITE_API_URL=http://localhost:15000
+    volumes:
+      - ../shared/res/web:/assets

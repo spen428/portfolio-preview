@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg1656"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="portainer.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1658"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.7442931"
+     inkscape:cx="65.432912"
+     inkscape:cy="64.097546"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1653">
+    <filter
+       id="filter0_dd_10456_446427-3-9"
+       x="-3.01562"
+       y="-2.2285199"
+       width="38.709202"
+       height="52.303699"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood92-6-3" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix94-7-6" />
+      <feOffset
+         dy="1"
+         id="feOffset96-5-0" />
+      <feGaussianBlur
+         stdDeviation="1"
+         id="feGaussianBlur98-3-6" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0.0627451 0 0 0 0 0.0941176 0 0 0 0 0.156863 0 0 0 0.06 0"
+         id="feColorMatrix100-5-2" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow_10456_446427"
+         id="feBlend102-6-6" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix104-2-1" />
+      <feOffset
+         dy="1"
+         id="feOffset106-9-8" />
+      <feGaussianBlur
+         stdDeviation="1.5"
+         id="feGaussianBlur108-1-7" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0.0627451 0 0 0 0 0.0941176 0 0 0 0 0.156863 0 0 0 0.1 0"
+         id="feColorMatrix110-2-9" />
+      <feBlend
+         mode="normal"
+         in2="effect1_dropShadow_10456_446427"
+         result="effect2_dropShadow_10456_446427"
+         id="feBlend112-7-2" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect2_dropShadow_10456_446427"
+         result="shape"
+         id="feBlend114-0-0" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       filter="url(#filter0_dd_10456_446427)"
+       id="g32"
+       style="filter:url(#filter0_dd_10456_446427-3-9)"
+       transform="matrix(0.3237502,0,0,0.3237502,3.1769183,0.72148378)">
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="m 10.8935,9.95117 h -0.6982 v 3.65823 h 0.6982 z"
+         fill="#13bef9"
+         id="path2" />
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="m 13.8954,9.95117 h -0.6981 v 3.65823 h 0.6981 z"
+         fill="#13bef9"
+         id="path4" />
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="M 17.998,2.96962 17.2823,1.71484 5.34375,8.6956 6.05935,9.9504 Z"
+         fill="#13bef9"
+         id="path6" />
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="M 17.9277,2.96962 18.6434,1.71484 30.5821,8.6956 29.8664,9.9504 Z"
+         fill="#13bef9"
+         id="path8" />
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="M 32.6936,9.96873 V 8.51953 H -0.015625 v 1.4492 z"
+         fill="#13bef9"
+         id="path10" />
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="M 19.7422,30.4335 V 8.96094 h 1.4312 V 31.4762 c -0.384,-0.4418 -0.8727,-0.7599 -1.4312,-1.0427 z"
+         fill="#13bef9"
+         id="path12" />
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="M 17.2988,30.0627 V -0.228516 h 1.4313 V 30.2395 c -0.4015,-0.1944 -1.3789,-0.1768 -1.4313,-0.1768 z"
+         fill="#13bef9"
+         id="path14" />
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="M 3.73725,33.0852 C 1.99182,31.7774 0.839844,29.692 0.839844,27.3238 c 0,-1.2548 0.331626,-2.4919 0.942526,-3.5699 H 14.0003 c 0.6284,1.078 0.9426,2.3151 0.9426,3.5699 0,1.0957 -0.1397,2.1208 -0.576,3.0397 -0.9251,-0.9013 -2.2865,-1.2901 -3.6654,-1.2901 -2.4436,0 -4.5381,1.5376 -5.0792,3.835 -0.192,-0.0176 -0.3142,-0.0353 -0.5062,-0.0353 -0.4712,0.0177 -0.925,0.0884 -1.37885,0.2121 z"
+         fill="#13bef9"
+         id="path16" />
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="M 9.74131,15.2344 H 6.04102 v 3.7643 h 3.70029 z"
+         fill="#13bef9"
+         id="path18" />
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="M 5.5694,15.2344 H 1.86914 v 3.7643 H 5.5694 Z"
+         fill="#13bef9"
+         id="path20" />
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="M 5.5694,19.4238 H 1.86914 v 3.7643 H 5.5694 Z"
+         fill="#13bef9"
+         id="path22" />
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="M 9.74131,19.4238 H 6.04102 v 3.7643 h 3.70029 z"
+         fill="#13bef9"
+         id="path24" />
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="m 13.8956,19.4238 h -3.7003 v 3.7643 h 3.7003 z"
+         fill="#13bef9"
+         id="path26" />
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="m 13.8956,13.2207 h -3.7003 v 3.7643 h 3.7003 z"
+         fill="#13bef9"
+         id="path28" />
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="m 6.2331,33.6512 c 0.5061,-2.1737 2.4436,-3.7996 4.7475,-3.7996 1.4836,0 2.8102,0.6715 3.7178,1.7319 0.7854,-0.5479 1.7279,-0.866 2.7577,-0.866 2.688,0 4.8698,2.2091 4.8698,4.9308 0,0.5655 -0.0873,1.0957 -0.2618,1.6082 0.5934,0.8129 0.9599,1.838 0.9599,2.9337 0,2.7216 -2.1817,4.9307 -4.8697,4.9307 -1.1869,0 -2.269,-0.4241 -3.1068,-1.1311 -0.8902,1.2548 -2.3389,2.0854 -3.9796,2.0854 -1.8851,0 -3.5258,-1.0957 -4.3461,-2.6862 -0.3316,0.0706 -0.6633,0.106 -1.0124,0.106 -2.6879,0 -4.887134,-2.2091 -4.887134,-4.9307 0,-2.7216 2.181774,-4.9307 4.887134,-4.9307 0.1746,-0.0177 0.3491,-0.0177 0.5237,0.0176 z"
+         fill="#13bef9"
+         id="path30" />
+    </g>
+  </g>
+</svg>

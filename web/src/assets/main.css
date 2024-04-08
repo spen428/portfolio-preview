@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    a {
+        @apply text-primary-950 no-underline duration-300 ease-in-out;
+    }
+
+    a:hover {
+        @apply cursor-pointer underline;
+    }
+
+    rt {
+        @apply relative leading-5 bottom-2;
+    }
+
+    em {
+        @apply font-bold;
+        font-style: unset;
+    }
+
+    cite {
+        @apply font-serif not-italic;
+    }
+
+    ul {
+        @apply my-2 list-disc pl-8 text-left;
+    }
+
+    li {
+        @apply my-2 lg:my-0;
+    }
+}
+
+@layer components {
+    .small-caps {
+        font-variant-caps: small-caps;
+    }
+
+    .all-small-caps {
+        font-variant-caps: all-small-caps;
+    }
+
+    .all-caps {
+        text-transform: uppercase;
+    }
+
+    .disable-animation * {
+        animation: none !important;
+        transition: none !important;
+    }
+
+    .text-balance {
+        /*noinspection CssInvalidPropertyValue*/
+        text-wrap: balance;
+    }
+}
+
+@media print {
+    a {
+        text-decoration: none;
+    }
+}

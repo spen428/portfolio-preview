@@ -1,0 +1,36 @@
+<svg
+  width="1"
+  height="1"
+  viewBox="0 0 1 1"
+  version="1.1"
+  id="svg5"
+  preserveAspectRatio="none"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg">
+  <defs
+    id="defs9"/>
+  <path
+    id="logoLeft"
+    d="M 0.50835727,0.00677693 A 0.03717251,0.0402839 45.95703 0 0 0.47724747,0.01918231 L 0.01914422,0.4760632 A 0.03717251,0.0402839 45.95703 0 0 0.01698272,0.5307023 L 0.19051805,0.7037724 0.59630856,0.08103268 0.532082,0.01698867 A 0.03717251,0.0402839 45.95703 0 0 0.50840874,0.00677693 Z"
+    stroke="#421c52"
+    stroke-width="0.0134787"
+    stroke-miterlimit="4"
+    stroke-dasharray="none"
+    stroke-opacity="1"/>
+  <path
+    id="logoRight"
+    d="M 0.81731899,0.30437985 0.4115285,0.92714479 0.4675724,0.98304459 a 0.03717251,0.0402839 45.95703 0 0 0.0548087,-0.002194 L 0.98045861,0.52397012 a 0.03717251,0.0402839 45.95703 0 0 0.002213,-0.0546643 z"
+    stroke="#733e8d"
+    stroke-width="0.0134787"
+    stroke-miterlimit="4"
+    stroke-dasharray="none"
+    stroke-opacity="1"/>
+  <path
+    id="logoMiddle"
+    d="M 0.59628284,0.08103268 0.81731899,0.30437985 0.4115285,0.92714479 0.19049232,0.7037724 Z"
+    stroke="#ffffff"
+    stroke-width="0.0134787"
+    stroke-miterlimit="4"
+    stroke-dasharray="none"
+    stroke-opacity="1"/>
+</svg>
